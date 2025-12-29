@@ -1,0 +1,31 @@
+.custom-navbar {
+  background: linear-gradient(135deg, #4f46e5, #06b6d4, #22c55e) !important;
+  min-height: 110px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.18);
+}
+
+.nav-logo {
+  height: 70px;
+  width: auto;
+  object-fit: contain;
+}
+
+.navbar-nav .nav-link {
+  color: #fff !important;
+  font-weight: 600;
+}
+
+.search-box input {
+  width: 280px;
+  border-radius: 20px;
+}
+
+.icon-links .nav-link {
+  font-size: 1.4rem;
+  margin-left: 14px;
+}
+
+
+
+
+

@@ -1,0 +1,26 @@
+/* Footer background */
+footer {
+  background-color: #0d6efd; /* Bootstrap blue */
+  color: #ffffff;
+}
+
+/* Footer headings */
+footer h5 {
+  color: #ff9800; /* Orange */
+  font-weight: bold;
+}
+
+/* Footer links */
+footer a {
+  color: #ffffff;
+}
+
+footer a:hover {
+  color: #ff9800;
+  text-decoration: underline;
+}
+
+/* Footer bottom copyright */
+footer .bg-black {
+  background-color: #084298 !important; /* darker blue */
+}
